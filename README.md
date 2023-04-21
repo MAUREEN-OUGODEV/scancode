@@ -17,7 +17,7 @@
 # Livelink
 *  Live link to view the project <a href="https://remarkable-salmiakki-9778cf.netlify.app/">Scan Code</a>
 # Screenshots:
-<img src="./screenshot" alt="screenshot" />
+<img src="./screenshot.png" alt="screenshot" />
 
  MIT License
 
